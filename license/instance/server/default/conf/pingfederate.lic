@@ -1,0 +1,13 @@
+ID=1238636
+Product=PingFederate
+Version=9.2
+IssueDate=2019-05-22
+Tier=Free
+ExpirationDate=2019-06-22
+EnforcementType=0
+SaasProvisioning=true
+WSTrustSTS=true
+OAuth=true
+Generator=WebAPI
+SignCode=FF07
+Signature=302C021451829EDE603690DA93585315748F65ACD99DA407021462379C70325470ED922DC4BAF51A381CB881707E
